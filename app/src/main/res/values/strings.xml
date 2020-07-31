@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">StepCheck</string>
+    <string name="error">There was an error fetching Google Fit data!</string>
+    <string name="ok">OK</string>
+    <string name="date">Date &#x2191;</string>
+    <string name="date_desc">Date &#x2193;</string>
+    <string name="step_cnt">Step Count</string>
+    <string name="nosteps">No step data available!</string>
+    <string name="refresh">Refresh</string>
+</resources>
